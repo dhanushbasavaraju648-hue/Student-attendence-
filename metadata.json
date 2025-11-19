@@ -1,0 +1,7 @@
+{
+  "name": "SecureID - Student Verification",
+  "description": "A secure student identification system featuring data collection, simulated KNN training, and Gemini-powered anti-spoofing (liveness detection).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
